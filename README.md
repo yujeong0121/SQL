@@ -1,4 +1,4 @@
-# SQL 기초
+# SQL Basic
 <MySQL로 배우는 데이터베이스 개론과 실습> 교재에 있는 문제들을 풀어보았습니다.
 
 - [ch01_데이터 조작어_검색](https://github.com/yujeong0121/SQL/blob/main/Basic/ch01_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A1%B0%EC%9E%91%EC%96%B4_%EA%B2%80%EC%83%89.sql)
