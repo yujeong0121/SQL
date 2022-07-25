@@ -12,5 +12,5 @@
 - [ch09_정규화](https://github.com/yujeong0121/SQL/blob/main/Basic/ch09_%EC%A0%95%EA%B7%9C%ED%99%94.sql)
 
 
-
-
+# LeetCode 문제 풀이
+[LeetCode](https://leetcode.com/)에 있는 sql 무료 문제를 풀이해보았습니다.
