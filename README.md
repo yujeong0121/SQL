@@ -8,8 +8,8 @@
 - [ch05_부속질의](https://github.com/yujeong0121/SQL/blob/main/Basic/ch05_%EB%B6%80%EC%86%8D%EC%A7%88%EC%9D%98.sql)
 - [ch06_뷰](https://github.com/yujeong0121/SQL/blob/main/Basic/ch06_%EB%B7%B0.sql)
 - [ch07_인덱스](https://github.com/yujeong0121/SQL/blob/main/Basic/ch07_%EC%9D%B8%EB%8D%B1%EC%8A%A4.sql)
-- [ch08_프로시저]
-- [ch09_정규화](https://github.com/yujeong0121/SQL/blob/main/ch09_%EC%A0%95%EA%B7%9C%ED%99%94.sql)
+- [ch08_프로시저](https://github.com/yujeong0121/SQL/blob/main/Basic/ch08_%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80.sql)
+- [ch09_정규화](https://github.com/yujeong0121/SQL/blob/main/Basic/ch09_%EC%A0%95%EA%B7%9C%ED%99%94.sql)
 
 
 
