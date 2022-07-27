@@ -14,4 +14,4 @@
 
 # LeetCode 문제 풀이
 [LeetCode](https://leetcode.com/)에 있는 sql 무료 문제를 풀이해보았습니다.
-- [Easy] (https://github.com/yujeong0121/SQL/tree/main/LeetCode/Easy)
+- [Easy](https://github.com/yujeong0121/SQL/tree/main/LeetCode/Easy)
